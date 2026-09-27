@@ -1,0 +1,13 @@
+# Log
+*.log
+
+# Backups
+*.tar.gz
+backup-*
+
+# Editor files
+*.swp
+*~
+
+# OS files
+.DS_Store
